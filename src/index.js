@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import Minesweeper from "./components/Sapper";
+import Sapper from "./components/Sapper";
 
-ReactDOM.render(<Minesweeper />, document.getElementById("app"));
+ReactDOM.render(<Sapper />, document.getElementById("app"));
